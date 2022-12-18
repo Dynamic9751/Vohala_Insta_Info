@@ -3,7 +3,7 @@
 Vohala is a **OSINT** tool on Instagram to collect, analyze, and run reconnaissance.
 
 
-Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this tool.**
+Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! This Script do not assume any responsibility for the use of this tool.**
 
 Warning: It is advisable to **not** use your own/primary account when using this tool.
 
